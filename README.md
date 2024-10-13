@@ -10,6 +10,7 @@ This project is a simple SDK for managing non-volatile memory (NVM) attributes w
     /src          # SDK implementation
     /test         # Unit and fuzz test files
     /inputs       # Seed inputs for AFL fuzzing
+    /screenshots  # Compilation screenshots
     Makefile      # Build script
 ```
 
